@@ -26,7 +26,7 @@
     "node-port-scanner": "^3.0.1",
     "oui": "^11.0.68",
     "prompt-sync": "^4.2.0",
-    "public-ip": "^4.0.3",
+    "public-ip": "^6.0.1",
     "request": "^2.88.2",
     "safe-browse-url-lookup": "^0.1.1",
     "save": "^2.4.0",
